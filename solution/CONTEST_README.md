@@ -26,6 +26,13 @@ comments: true
 
 ## 往期竞赛
 
+#### 第 406 场周赛(2024-07-14 10:30, 90 分钟) 参赛人数 3421
+
+- [3216. 交换后字典序最小的字符串](/solution/3200-3299/3216.Lexicographically%20Smallest%20String%20After%20a%20Swap/README.md)
+- [3217. 从链表中移除在数组中存在的节点](/solution/3200-3299/3217.Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/README.md)
+- [3218. 切蛋糕的最小总开销 I](/solution/3200-3299/3218.Minimum%20Cost%20for%20Cutting%20Cake%20I/README.md)
+- [3219. 切蛋糕的最小总开销 II](/solution/3200-3299/3219.Minimum%20Cost%20for%20Cutting%20Cake%20II/README.md)
+
 #### 第 405 场周赛(2024-07-07 10:30, 90 分钟) 参赛人数 3240
 
 - [3210. 找出加密后的字符串](/solution/3200-3299/3210.Find%20the%20Encrypted%20String/README.md)
@@ -159,7 +166,7 @@ comments: true
 - [3116. 单面值组合的第 K 小金额](/solution/3100-3199/3116.Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/README.md)
 - [3117. 划分数组得到最小的值之和](/solution/3100-3199/3117.Minimum%20Sum%20of%20Values%20by%20Dividing%20Array/README.md)
 
-#### 第 128 场双周赛(2024-04-13 22:30, 90 分钟) 参赛人数 2653
+#### 第 128 场双周赛(2024-04-13 22:30, 90 分钟) 参赛人数 2654
 
 - [3110. 字符串的分数](/solution/3100-3199/3110.Score%20of%20a%20String/README.md)
 - [3111. 覆盖所有点的最少矩形数目](/solution/3100-3199/3111.Minimum%20Rectangles%20to%20Cover%20Points/README.md)
